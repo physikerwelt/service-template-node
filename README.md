@@ -82,4 +82,3 @@ npm install
 ```
 
 Enjoy!
-
